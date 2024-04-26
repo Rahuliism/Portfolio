@@ -1,2 +1,2 @@
 # Portfolio
-build portfolio with html&css..
+build portfolio with the help of html&css..
